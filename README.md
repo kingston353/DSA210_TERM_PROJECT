@@ -11,10 +11,10 @@ more informed decisions which affect my health and productivity thanks to this a
 
 Main Purposes
 
-Identify how trends and patterns of my sleep data affects my fitness data
-Explore the relationship between my physical activity (steps, workout sessions, consistency etc.) and my sleep quality (duration, consistencty etc.).
-Gain important insights to optimize both my workout routine and sleep schedule for better health and recovery.
-Determine whether the quality of my sleep influences how motivated I am to exercise or make any physical activity.
+-Identify how trends and patterns of my sleep data affects my fitness data
+-Explore the relationship between my physical activity (steps, workout sessions, consistency etc.) and my sleep quality (duration, consistencty etc.).
+-Gain important insights to optimize both my workout routine and sleep schedule for better health and recovery.
+-Determine whether the quality of my sleep influences how motivated I am to exercise or make any physical activity.
 
 Data sources
 
@@ -25,9 +25,9 @@ Data sources
 Techniques
 
 To achieve the project objectives i will use techniques below;
-Exploratory Data Analysis (EDA): I will make summary statistics for my sleep and fitness data. I will try to identify correlation and patterns between my activity levels and my sleep duration. I will make trend analysis for different time durations (weeks, months etc.)
-Visualization: I will make categorical analysis for activity types (steps and fitness workouts) and use bar charts and histograms. I will also use correlation heatmaps to explore relationship between activity and sleep.
-Machine Learning: I might use machine learning to optimize my workout and sleep times and habits. 
+-Exploratory Data Analysis (EDA): I will make summary statistics for my sleep and fitness data. I will try to identify correlation and patterns between my activity levels and my sleep duration. I will make trend analysis for different time durations (weeks, months etc.)
+-Visualization: I will make categorical analysis for activity types (steps and fitness workouts) and use bar charts and histograms. I will also use correlation heatmaps to explore relationship between activity and sleep.
+-Machine Learning: I might use machine learning to optimize my workout and sleep times and habits. 
 
 
 
