@@ -4,7 +4,7 @@ Sleep and Fitness Analysis Project
 
 Motivation
 
-Nowadays, it is hard for me to maintain a healthy balance between physical activity and rest. This affects my overall well-being and I thing I can make changes after making a scientific analysis on this subject.
+Nowadays, it is hard for me to maintain a healthy balance between physical activity and rest. This affects my overall well-being and I think I can make changes after making a scientific analysis on this subject.
 I chose this project in order to evaluate my sleep habits with my fitness activities including workouts and steps, 
 to gain insights into how these factors are afffecting each other. My goal is to optimize my workout programs and overall activity by understanding the relationship between physical activity and sleep patterns. At the end of this project, i will be able to make
 more informed decisions which affect my health and productivity thanks to this analysis.
