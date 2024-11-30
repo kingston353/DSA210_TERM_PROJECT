@@ -27,7 +27,7 @@ more informed decisions which affect my health and productivity thanks to this a
 To achieve the project objectives i will use steps below;
 - With Exploratory Data Analysis (EDA), I will make summary statistics for my sleep and fitness data after i convert these datas to a type that i can compare. I will try to identify correlation and patterns between my activity levels and my sleep duration. I will make trend analysis for different time durations (weeks, months etc.). Then i will continue with the next step which is visualization of this analysis.
 - Visualization: I will make categorical analysis for activity types (steps and fitness workouts) and use bar charts and histograms. I will also use correlation heatmaps to explore relationship between activity and sleep. These visualization tools will help me to show trends, outliers and patterns.
-- Machine Learning: I will use machine learning tools to optimize my workout and sleep times habits. This step will help me to make correct implementations for my workout and sleep routine.
+- Machine Learning: I will use machine learning tools to optimize my workout and sleep time habits. This step will help me to make correct implementations for my workout and sleep routine. 
 
 
 
